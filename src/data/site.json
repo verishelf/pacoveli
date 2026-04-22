@@ -1,0 +1,19 @@
+{
+  "artist": {
+    "name": "Pacoveli",
+    "bio": "Pacoveli is an independent artist crafting immersive soundscapes that blend ambient textures with modern production. Based in the space between minimalism and emotion, each release explores the boundaries of monochrome sound.",
+    "longBio": "Pacoveli emerged from a desire to strip music down to its essential elements—contrast, tension, and release. Drawing from influences spanning ambient, electronic, and indie, the project explores themes of isolation, connection, and the spaces in between.\n\nEvery release is a deliberate step in a continuous exploration of sound and feeling. No color, no distraction—just the raw emotional spectrum rendered in black, white, and every shade of gray.",
+    "photoUrl": "/images/artist.svg",
+    "socialLinks": {
+      "appleMusic": "https://music.apple.com/us/artist/pacoveli/1831878823",
+      "soundcloud": "https://soundcloud.com/paco-588226023",
+      "spotify": "https://open.spotify.com/artist/6oiWRWimIQV704ClcviKYu",
+      "bandcamp": "https://pacoveli.bandcamp.com",
+      "instagram": "https://instagram.com/pacoveli",
+      "youtube": "https://youtube.com/@pacoveli",
+      "twitter": "https://twitter.com/pacoveli"
+    },
+    "contactEmail": "hello@pacoveli.com",
+    "pressKitUrl": "/press/pacoveli-press-kit.pdf"
+  }
+}

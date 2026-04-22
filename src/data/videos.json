@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "id": "v1",
+      "title": "Horizon - Official Video",
+      "youtubeId": "dQw4w9WgXcQ",
+      "releaseDate": "2024"
+    },
+    {
+      "id": "v2",
+      "title": "Dawn - Live Session",
+      "youtubeId": "dQw4w9WgXcQ",
+      "releaseDate": "2023"
+    }
+  ]
+}

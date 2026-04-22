@@ -1,0 +1,945 @@
+{
+  "releases": [
+    {
+      "id": "single-1891432985",
+      "title": "Ride",
+      "type": "single",
+      "releaseDate": "2026",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/73/b8/b273b840-07c8-1cbb-3a75-e8f3afe17db9/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1891432985",
+          "title": "Ride",
+          "duration": "2:06",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/53/c8/fb/53c8fb23-ad1c-b901-f1f8-546746a3e2f9/mzaf_13775440329366563592.plus.aac.p.m4a",
+          "releaseId": "single-1891432985",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/ride/1891432982?i=1891432985&uo=4",
+          "soundcloudUrl": "https://soundcloud.com/paco-588226023/ride",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/73/b8/b273b840-07c8-1cbb-3a75-e8f3afe17db9/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Ride - Single"
+    },
+    {
+      "id": "single-1860874294",
+      "title": "Where My Heart Still Lives",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/f6/d5/aaf6d556-2b04-73d4-10f0-831e7f11ef79/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1860874294",
+          "title": "Where My Heart Still Lives",
+          "duration": "2:35",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/48/5c/42485cdf-41cc-3efa-5584-89721178129e/mzaf_14448180194815168433.plus.aac.p.m4a",
+          "releaseId": "single-1860874294",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/where-my-heart-still-lives/1860874293?i=1860874294&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/f6/d5/aaf6d556-2b04-73d4-10f0-831e7f11ef79/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Where My Heart Still Lives - Single"
+    },
+    {
+      "id": "single-1860239050",
+      "title": "Ready for Flight",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/e8/ed/06e8edf5-6f0d-8512-faba-e38917a8322d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1860239050",
+          "title": "Ready for Flight",
+          "duration": "2:40",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/15/4e/df154ed3-494e-59dd-96f0-4505c9847a73/mzaf_4602977707917859973.plus.aac.p.m4a",
+          "releaseId": "single-1860239050",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/ready-for-flight/1860239049?i=1860239050&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/e8/ed/06e8edf5-6f0d-8512-faba-e38917a8322d/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Ready for Flight - Single"
+    },
+    {
+      "id": "single-1859357540",
+      "title": "Underground Graduate",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/64/7d/4c647d76-fe68-8238-753d-42d86d8af4e9/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1859357540",
+          "title": "Underground Graduate",
+          "duration": "2:25",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/3b/a5/583ba50b-c6a2-ac06-1259-89597921c6d7/mzaf_5498065634860516914.plus.aac.p.m4a",
+          "releaseId": "single-1859357540",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/underground-graduate/1859357539?i=1859357540&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/64/7d/4c647d76-fe68-8238-753d-42d86d8af4e9/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Underground Graduate - Single"
+    },
+    {
+      "id": "single-1856733670",
+      "title": "For Goodies Sake",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/93/1d/ba931d53-0c85-0be0-a2d7-aa224b03e402/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1856733670",
+          "title": "For Goodies Sake",
+          "duration": "2:21",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/dd/28/9add2844-0cd6-6c56-93cf-b8c08f4b0d70/mzaf_13078673345377116009.plus.aac.p.m4a",
+          "releaseId": "single-1856733670",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/for-goodies-sake/1856733669?i=1856733670&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/93/1d/ba931d53-0c85-0be0-a2d7-aa224b03e402/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "For Goodies Sake - Single"
+    },
+    {
+      "id": "single-1855231874",
+      "title": "TIMES LIKE THIS",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/8d/c7/778dc7cb-922a-d83d-eecc-1e74fad8cfce/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1855231874",
+          "title": "TIMES LIKE THIS",
+          "duration": "2:26",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/4d/72/024d721e-2dcc-ee80-3c95-c39fe0416b45/mzaf_15642001857174029802.plus.aac.p.m4a",
+          "releaseId": "single-1855231874",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/times-like-this/1855231873?i=1855231874&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/8d/c7/778dc7cb-922a-d83d-eecc-1e74fad8cfce/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "TIMES LIKE THIS - Single"
+    },
+    {
+      "id": "single-1853545935",
+      "title": "Saint Laurent Ties",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/1b/6c/5c1b6caf-b650-2c0d-e511-f19df9d96089/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1853545935",
+          "title": "Saint Laurent Ties",
+          "duration": "2:18",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/bd/65/52bd651c-f3b6-37bf-4243-ce7eb0013f17/mzaf_16260323809707674155.plus.aac.p.m4a",
+          "releaseId": "single-1853545935",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/saint-laurent-ties/1853545934?i=1853545935&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/1b/6c/5c1b6caf-b650-2c0d-e511-f19df9d96089/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Saint Laurent Ties - Single"
+    },
+    {
+      "id": "single-1852353050",
+      "title": "New Mode",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/96/1e/cc961ece-46c9-60fe-e064-c359097aeb7a/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1852353050",
+          "title": "New Mode",
+          "duration": "1:59",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/6d/63/486d63c1-2845-bd82-09d6-f98eecf4b199/mzaf_4091150309192651604.plus.aac.p.m4a",
+          "releaseId": "single-1852353050",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/new-mode/1852353049?i=1852353050&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/96/1e/cc961ece-46c9-60fe-e064-c359097aeb7a/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "New Mode - Single"
+    },
+    {
+      "id": "single-1850935656",
+      "title": "Iron Soul",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/96/f4/1896f4e6-7ca0-8e11-9e5b-23349d63091c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1850935656",
+          "title": "Iron Soul",
+          "duration": "2:54",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/61/60/5961602c-50ac-0c68-f867-0f2b7c3965d4/mzaf_11147912969213041104.plus.aac.p.m4a",
+          "releaseId": "single-1850935656",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/iron-soul/1850935655?i=1850935656&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/96/f4/1896f4e6-7ca0-8e11-9e5b-23349d63091c/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Iron Soul - Single"
+    },
+    {
+      "id": "single-1847429242",
+      "title": "Love Sick",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/24/c8/5d24c834-5112-51e4-a6ec-e56529a44b42/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1847429242",
+          "title": "Love Sick",
+          "duration": "2:58",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/ba/e0/7abae0ee-b561-caf2-98c6-33b7f35808d3/mzaf_13698000231395874336.plus.aac.p.m4a",
+          "releaseId": "single-1847429242",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/love-sick/1847429241?i=1847429242&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/24/c8/5d24c834-5112-51e4-a6ec-e56529a44b42/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Love Sick - Single"
+    },
+    {
+      "id": "single-1845860062",
+      "title": "Hello Inside Me",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/b5/18/d5b51814-0053-0bba-5d39-18ec4fb24824/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1845860062",
+          "title": "Hello Inside Me",
+          "duration": "3:02",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/42/25/85422575-1301-f2ef-15f7-fd2b1b0d5cea/mzaf_17675440529225680784.plus.aac.p.m4a",
+          "releaseId": "single-1845860062",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/hello-inside-me/1845860061?i=1845860062&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/b5/18/d5b51814-0053-0bba-5d39-18ec4fb24824/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Hello Inside Me - Single"
+    },
+    {
+      "id": "single-1845066704",
+      "title": "Chasing Passion",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/e9/19/75e919fa-90a9-8c64-3359-ce5a68dc2d45/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1845066704",
+          "title": "Chasing Passion",
+          "duration": "2:17",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/0c/e2/010ce288-2520-de12-5ea5-5815978aa5ef/mzaf_5492862974622679909.plus.aac.p.m4a",
+          "releaseId": "single-1845066704",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/chasing-passion/1845066703?i=1845066704&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/e9/19/75e919fa-90a9-8c64-3359-ce5a68dc2d45/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Chasing Passion - Single"
+    },
+    {
+      "id": "single-1843506170",
+      "title": "Count it Up",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/95/b3/6295b318-066d-046b-a72d-db4034bb2177/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1843506170",
+          "title": "Count it Up",
+          "duration": "2:18",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/84/60/5e8460b9-e2dc-3027-8592-667b6ab6e776/mzaf_83000358370565627.plus.aac.p.m4a",
+          "releaseId": "single-1843506170",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/count-it-up/1843506019?i=1843506170&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/95/b3/6295b318-066d-046b-a72d-db4034bb2177/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Count it Up - Single"
+    },
+    {
+      "id": "single-1842138945",
+      "title": "Scars on My Heart",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/80/df/3e80dfb1-83ac-290f-d255-1d1b76f2ecb0/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1842138945",
+          "title": "Scars on My Heart",
+          "duration": "3:04",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/bc/8a/91bc8a75-173a-1300-650d-d741f091232f/mzaf_13522457657355707333.plus.aac.p.m4a",
+          "releaseId": "single-1842138945",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/scars-on-my-heart/1842138944?i=1842138945&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/80/df/3e80dfb1-83ac-290f-d255-1d1b76f2ecb0/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Scars on My Heart - Single"
+    },
+    {
+      "id": "single-1841232633",
+      "title": "Once in Paris",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/cc/86/9ccc8613-937d-9d44-72ad-3c5849b5a21b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1841232633",
+          "title": "Once in Paris",
+          "duration": "2:12",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/00/fd/8100fda5-e915-29d0-bdd1-8313e3c16dc8/mzaf_11876772620260005603.plus.aac.p.m4a",
+          "releaseId": "single-1841232633",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/once-in-paris/1841232632?i=1841232633&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/cc/86/9ccc8613-937d-9d44-72ad-3c5849b5a21b/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Once in Paris - Single"
+    },
+    {
+      "id": "single-1840703366",
+      "title": "Shadows in the Whip",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/01/21/8e012136-bf07-6694-548d-5bd548789368/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1840703366",
+          "title": "Shadows in the Whip",
+          "duration": "2:13",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/59/19/c7591965-c393-7569-1875-0bd75d98135f/mzaf_14407262853681050107.plus.aac.p.m4a",
+          "releaseId": "single-1840703366",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/shadows-in-the-whip/1840703364?i=1840703366&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/01/21/8e012136-bf07-6694-548d-5bd548789368/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Shadows in the Whip - Single"
+    },
+    {
+      "id": "single-1839872521",
+      "title": "Untouchable Flow",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/12/57/2b125748-2b5b-9d4f-7bcd-5ba319a1758b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1839872521",
+          "title": "Untouchable Flow",
+          "duration": "2:42",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/ef/0b/02ef0b14-ab29-fdaa-418f-4380e206388c/mzaf_17983933543556183769.plus.aac.p.m4a",
+          "releaseId": "single-1839872521",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/untouchable-flow/1839872520?i=1839872521&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/12/57/2b125748-2b5b-9d4f-7bcd-5ba319a1758b/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Untouchable Flow - Single"
+    },
+    {
+      "id": "single-1839626800",
+      "title": "Levels",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/a4/60/f4a460bb-4e03-a4b8-d91c-f1700d5ac9ed/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1839626800",
+          "title": "Levels",
+          "duration": "2:38",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/cf/38/2ccf38b1-99fb-c449-31d8-479412ed327c/mzaf_7807232294016560221.plus.aac.p.m4a",
+          "releaseId": "single-1839626800",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/levels/1839626799?i=1839626800&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/a4/60/f4a460bb-4e03-a4b8-d91c-f1700d5ac9ed/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Levels - Single"
+    },
+    {
+      "id": "single-1838665870",
+      "title": "Iron Tongue",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/30/0e/41300e63-bec9-89e7-6220-a362e6b67b8b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1838665870",
+          "title": "Iron Tongue",
+          "duration": "1:47",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/ea/a4/08eaa47e-db95-e527-bac0-c0cd7f819bd9/mzaf_6235554761583479741.plus.aac.p.m4a",
+          "releaseId": "single-1838665870",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/iron-tongue/1838665869?i=1838665870&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/30/0e/41300e63-bec9-89e7-6220-a362e6b67b8b/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Iron Tongue - Single"
+    },
+    {
+      "id": "single-1838303607",
+      "title": "Barley Breathing",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/b5/10/8cb51017-f63b-b979-66fd-f59430f58d2f/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1838303607",
+          "title": "Barley Breathing",
+          "duration": "3:13",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/ad/65/1ead65e3-a6cd-289e-6399-8a43923bb2b4/mzaf_3696433024229953246.plus.aac.p.m4a",
+          "releaseId": "single-1838303607",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/barley-breathing/1838303605?i=1838303607&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/b5/10/8cb51017-f63b-b979-66fd-f59430f58d2f/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Barley Breathing - Single"
+    },
+    {
+      "id": "single-1837911586",
+      "title": "Rise of a Legacy",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/6c/05/a36c05c0-f0ce-dc50-a8b8-df5d70a991ef/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1837911586",
+          "title": "Rise of a Legacy",
+          "duration": "3:12",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/ca/6d/8fca6d8c-372d-41ec-af6e-7afcc64520e1/mzaf_16988950256312318782.plus.aac.p.m4a",
+          "releaseId": "single-1837911586",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/rise-of-a-legacy/1837911585?i=1837911586&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/6c/05/a36c05c0-f0ce-dc50-a8b8-df5d70a991ef/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Rise of a Legacy - Single"
+    },
+    {
+      "id": "single-1838135698",
+      "title": "Real Pain",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/b6/64/a5b66445-4b1e-20b6-753a-d8b1d6e539e0/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1838135698",
+          "title": "Real Pain",
+          "duration": "3:02",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/91/b0/1d91b024-15c9-4888-42db-9217b84e5e15/mzaf_6271438259044405208.plus.aac.p.m4a",
+          "releaseId": "single-1838135698",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/real-pain/1838135697?i=1838135698&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/b6/64/a5b66445-4b1e-20b6-753a-d8b1d6e539e0/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Real Pain - Single"
+    },
+    {
+      "id": "single-1837843293",
+      "title": "Streets Don't Sleep",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/db/04/66db04cf-64b5-89e0-6d2d-c418abbfd1d7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1837843293",
+          "title": "Streets Don't Sleep",
+          "duration": "2:39",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/69/9a/d8699af6-71d8-e3d1-5689-a48fce06e415/mzaf_13833185025215476450.plus.aac.p.m4a",
+          "releaseId": "single-1837843293",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/streets-dont-sleep/1837843292?i=1837843293&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/db/04/66db04cf-64b5-89e0-6d2d-c418abbfd1d7/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Streets Don't Sleep - Single"
+    },
+    {
+      "id": "single-1837633668",
+      "title": "Late Night Drip",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/c8/ad/59c8adbf-f0ff-c67a-ec58-bc1dc3d3184b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1837633668",
+          "title": "Late Night Drip",
+          "duration": "2:35",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/eb/dd/a7ebdd69-bb3f-7719-4cb7-3a58a1454041/mzaf_5197998282076593130.plus.aac.p.m4a",
+          "releaseId": "single-1837633668",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/late-night-drip/1837633667?i=1837633668&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/c8/ad/59c8adbf-f0ff-c67a-ec58-bc1dc3d3184b/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Late Night Drip - Single"
+    },
+    {
+      "id": "single-1837385524",
+      "title": "Quattro Drip",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/26/f1/9f26f118-2bee-5df1-5d68-abc3c028d829/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1837385524",
+          "title": "Quattro Drip",
+          "duration": "2:47",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/8f/b2/b78fb211-731c-28e3-3e16-c4daa0d6b321/mzaf_16361134245193051569.plus.aac.p.m4a",
+          "releaseId": "single-1837385524",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/quattro-drip/1837385523?i=1837385524&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/26/f1/9f26f118-2bee-5df1-5d68-abc3c028d829/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Quattro Drip - Single"
+    },
+    {
+      "id": "single-1837618285",
+      "title": "Spaceship Coupe",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/3f/56/133f5611-e4b6-eae4-736f-76ab4af3446a/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1837618285",
+          "title": "Spaceship Coupe",
+          "duration": "2:15",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/58/2e/49582ef3-08d3-17ff-11b3-d522130176d9/mzaf_13279448244458789708.plus.aac.p.m4a",
+          "releaseId": "single-1837618285",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/spaceship-coupe/1837618283?i=1837618285&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/3f/56/133f5611-e4b6-eae4-736f-76ab4af3446a/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Spaceship Coupe - Single"
+    },
+    {
+      "id": "single-1837109962",
+      "title": "Coupe Dreams",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/19/5e/b4195e97-4bfb-ff4a-1bc2-4f63f4eb9309/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1837109962",
+          "title": "Coupe Dreams",
+          "duration": "2:21",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/64/34/ee643427-1b0f-b04f-ab0b-2a0bf243bb2d/mzaf_6119218121267524768.plus.aac.p.m4a",
+          "releaseId": "single-1837109962",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/coupe-dreams/1837109961?i=1837109962&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/19/5e/b4195e97-4bfb-ff4a-1bc2-4f63f4eb9309/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Coupe Dreams - Single"
+    },
+    {
+      "id": "single-1837210557",
+      "title": "From Nothing",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/75/d9/4675d968-4b9c-22b8-9936-58a8de6ddecf/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1837210557",
+          "title": "From Nothing",
+          "duration": "2:38",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/37/0d/a6370d8a-acbf-f1cb-0d7c-057f830bd1f6/mzaf_11503914806297252016.plus.aac.p.m4a",
+          "releaseId": "single-1837210557",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/from-nothing/1837210556?i=1837210557&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/75/d9/4675d968-4b9c-22b8-9936-58a8de6ddecf/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "From Nothing - Single"
+    },
+    {
+      "id": "single-1836710318",
+      "title": "Late Night Smoke",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/ce/50/78ce50fd-8268-0fc2-8244-fd02fedbe6d7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1836710318",
+          "title": "Late Night Smoke",
+          "duration": "2:54",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/6c/9b/9d6c9bea-8ed0-2f19-f06d-141b3c2e4ac2/mzaf_482093390585528622.plus.aac.p.m4a",
+          "releaseId": "single-1836710318",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/late-night-smoke/1836710317?i=1836710318&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/ce/50/78ce50fd-8268-0fc2-8244-fd02fedbe6d7/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Late Night Smoke - Single"
+    },
+    {
+      "id": "single-1836364239",
+      "title": "Cruisin'",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/c3/74/12c37402-d6d3-22f4-f476-ad9f95a61621/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1836364239",
+          "title": "Cruisin'",
+          "duration": "2:48",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/37/9a/bb379a28-ff3f-a295-1b91-1cb1b059edcb/mzaf_906671311039060319.plus.aac.p.m4a",
+          "releaseId": "single-1836364239",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/cruisin/1836364237?i=1836364239&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/c3/74/12c37402-d6d3-22f4-f476-ad9f95a61621/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Cruisin' - Single"
+    },
+    {
+      "id": "single-1836505223",
+      "title": "Drip Like Waves",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/2e/e8/132ee853-32ed-6e4f-0d0a-031d4a381424/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1836505223",
+          "title": "Drip Like Waves",
+          "duration": "2:53",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/a3/cc/1da3cc0c-931e-2b36-1adf-1ad73a3dc52d/mzaf_16940525729122826185.plus.aac.p.m4a",
+          "releaseId": "single-1836505223",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/drip-like-waves/1836505219?i=1836505223&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/2e/e8/132ee853-32ed-6e4f-0d0a-031d4a381424/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Drip Like Waves - Single"
+    },
+    {
+      "id": "single-1836613370",
+      "title": "Tides on My Mind",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/5a/89/ae5a89aa-a396-7101-3c02-c0ae4971eb5c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1836613370",
+          "title": "Tides on My Mind",
+          "duration": "2:35",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/16/63/3016630f-836c-ed71-3b4d-e7fb59b44cd4/mzaf_12174151396679867100.plus.aac.p.m4a",
+          "releaseId": "single-1836613370",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/tides-on-my-mind/1836613369?i=1836613370&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/5a/89/ae5a89aa-a396-7101-3c02-c0ae4971eb5c/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Tides on My Mind - Single"
+    },
+    {
+      "id": "single-1836339335",
+      "title": "Free Agents",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/0e/c1/990ec18e-a848-2651-3b3a-13f18d7984c0/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1836339335",
+          "title": "Free Agents",
+          "duration": "2:24",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/e9/49/6ee9491a-e588-6964-2bf8-5430ad4fac40/mzaf_14658559179313407951.plus.aac.p.m4a",
+          "releaseId": "single-1836339335",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/free-agents/1836339334?i=1836339335&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/0e/c1/990ec18e-a848-2651-3b3a-13f18d7984c0/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Free Agents - Single"
+    },
+    {
+      "id": "single-1836097114",
+      "title": "From the Bottom",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/8b/3c/fb8b3c0c-44f3-987b-3ba8-4a6482c8c9fe/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1836097114",
+          "title": "From the Bottom",
+          "duration": "2:32",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/b7/53/88b7538b-08db-ca20-86ce-53b04f734b48/mzaf_9027389370167365095.plus.aac.p.m4a",
+          "releaseId": "single-1836097114",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/from-the-bottom/1836097113?i=1836097114&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/8b/3c/fb8b3c0c-44f3-987b-3ba8-4a6482c8c9fe/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "From the Bottom - Single"
+    },
+    {
+      "id": "single-1835706586",
+      "title": "Through the Storm",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e7/3a/08e73a73-79a8-9e22-15c5-df0a44b76719/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1835706586",
+          "title": "Through the Storm",
+          "duration": "2:36",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/2f/ff/ab2fffa1-fe40-c166-b10e-cac1ea313f04/mzaf_15678235708354929144.plus.aac.p.m4a",
+          "releaseId": "single-1835706586",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/through-the-storm/1835706585?i=1835706586&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e7/3a/08e73a73-79a8-9e22-15c5-df0a44b76719/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Through the Storm - Single"
+    },
+    {
+      "id": "single-1835515025",
+      "title": "Level Up",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/fa/e9/71fae94f-905d-3bcf-f2ec-236c65fa9d77/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1835515025",
+          "title": "Level Up",
+          "duration": "2:38",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/f7/1a/93f71aff-b847-b54b-ff6f-e90fc69be0bc/mzaf_17807976046658784936.plus.aac.p.m4a",
+          "releaseId": "single-1835515025",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/level-up/1835515024?i=1835515025&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/fa/e9/71fae94f-905d-3bcf-f2ec-236c65fa9d77/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Level Up - Single"
+    },
+    {
+      "id": "single-1834813857",
+      "title": "Player",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/6b/12/de6b12e4-0198-27db-b47f-dd40f4d99fc7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1834813857",
+          "title": "Player",
+          "duration": "2:34",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/9d/ca/c49dcafe-27fc-4167-26b7-efd7859cd56d/mzaf_7734624581932760043.plus.aac.p.m4a",
+          "releaseId": "single-1834813857",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/player/1834813856?i=1834813857&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/6b/12/de6b12e4-0198-27db-b47f-dd40f4d99fc7/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Player - Single"
+    },
+    {
+      "id": "single-1834223264",
+      "title": "Rise Above",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/1c/2e/ce1c2eda-a072-72aa-da34-d2296035d378/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1834223264",
+          "title": "Rise Above",
+          "duration": "2:46",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/4d/48/4d4d48c6-0620-6248-b067-7646aeef93f2/mzaf_15674950576444042783.plus.aac.p.m4a",
+          "releaseId": "single-1834223264",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/rise-above/1834223263?i=1834223264&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/1c/2e/ce1c2eda-a072-72aa-da34-d2296035d378/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Rise Above - Single"
+    },
+    {
+      "id": "single-1834176294",
+      "title": "Boss Moves",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/d9/7e/7fd97e09-2590-b265-f2af-29c2986a5312/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1834176294",
+          "title": "Boss Moves",
+          "duration": "2:25",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/9f/2e/d09f2e83-1f4f-08de-368f-217a4a0326c7/mzaf_4248189345226054192.plus.aac.p.m4a",
+          "releaseId": "single-1834176294",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/boss-moves/1834176293?i=1834176294&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/d9/7e/7fd97e09-2590-b265-f2af-29c2986a5312/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Boss Moves - Single"
+    },
+    {
+      "id": "single-1834086195",
+      "title": "9PM",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/1d/d6/ab1dd6f4-21fb-c7af-29ff-72ac08a5f039/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1834086195",
+          "title": "9PM",
+          "duration": "2:49",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/f4/ff/89f4ff88-ea6a-51d7-c129-996a19408757/mzaf_15793083919458884373.plus.aac.p.m4a",
+          "releaseId": "single-1834086195",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/9pm/1834086194?i=1834086195&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/1d/d6/ab1dd6f4-21fb-c7af-29ff-72ac08a5f039/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "9PM - Single"
+    },
+    {
+      "id": "single-1833807977",
+      "title": "Skyline Dreams",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/62/92/756292e8-1097-9fb9-d1f2-abfd848c8b21/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1833807977",
+          "title": "Skyline Dreams",
+          "duration": "2:24",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/db/e1/1fdbe160-39d5-4c0b-f60e-2c21cd27d578/mzaf_4806885199105406053.plus.aac.p.m4a",
+          "releaseId": "single-1833807977",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/skyline-dreams/1833807976?i=1833807977&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/62/92/756292e8-1097-9fb9-d1f2-abfd848c8b21/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Skyline Dreams - Single"
+    },
+    {
+      "id": "single-1833594824",
+      "title": "King of Pain",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/0b/e2/f00be28b-269a-1a36-e34f-73a3e9459477/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1833594824",
+          "title": "King of Pain",
+          "duration": "2:50",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/de/46/abde46cc-ea28-faa2-964e-a32f52f86ff7/mzaf_12052644075844141707.plus.aac.p.m4a",
+          "releaseId": "single-1833594824",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/king-of-pain/1833594823?i=1833594824&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/0b/e2/f00be28b-269a-1a36-e34f-73a3e9459477/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "King of Pain - Single"
+    },
+    {
+      "id": "single-1833359583",
+      "title": "Steel in My Veins",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/99/a5/4499a551-fe75-70ef-a5d3-ee7139baa23c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1833359583",
+          "title": "Steel in My Veins",
+          "duration": "2:17",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/f9/04/63f904b4-f685-a613-d088-6417a05eb2d9/mzaf_15653379490623198717.plus.aac.p.m4a",
+          "releaseId": "single-1833359583",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/steel-in-my-veins/1833359582?i=1833359583&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/99/a5/4499a551-fe75-70ef-a5d3-ee7139baa23c/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Steel in My Veins - Single"
+    },
+    {
+      "id": "single-1832929172",
+      "title": "Day Shift Dreams",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/18/96/4a1896f2-0dc2-e0f2-32cb-41ee473acb3e/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1832929172",
+          "title": "Day Shift Dreams",
+          "duration": "3:17",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/cd/42/46cd42d6-f507-644b-744e-9a45fa1aee5c/mzaf_11197065520035424564.plus.aac.p.m4a",
+          "releaseId": "single-1832929172",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/day-shift-dreams/1832929171?i=1832929172&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/18/96/4a1896f2-0dc2-e0f2-32cb-41ee473acb3e/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Day Shift Dreams - Single"
+    },
+    {
+      "id": "single-1832387239",
+      "title": "Emergency",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/3e/f9/2c3ef9f7-092e-1e80-aba4-3937ce8b0b64/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1832387239",
+          "title": "Emergency",
+          "duration": "3:27",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/ad/20/46ad20d3-e929-e1c0-0c94-796df7fffb96/mzaf_6795541640664818437.plus.aac.p.m4a",
+          "releaseId": "single-1832387239",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/emergency/1832387238?i=1832387239&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/3e/f9/2c3ef9f7-092e-1e80-aba4-3937ce8b0b64/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Emergency - Single"
+    },
+    {
+      "id": "single-1832269888",
+      "title": "No Handouts",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/1d/c3/fe1dc317-4281-4fcc-017d-0e64b6387fb5/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1832269888",
+          "title": "No Handouts",
+          "duration": "2:48",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/45/ac/3645ac9d-b769-848c-87b4-84fcc6d7b2dc/mzaf_16944426818746012871.plus.aac.p.m4a",
+          "releaseId": "single-1832269888",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/no-handouts/1832269887?i=1832269888&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/1d/c3/fe1dc317-4281-4fcc-017d-0e64b6387fb5/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "No Handouts - Single"
+    },
+    {
+      "id": "single-1832106392",
+      "title": "Midnight Drive",
+      "type": "single",
+      "releaseDate": "2025",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/57/8d/19578dff-f1ef-5b47-960c-5cbd04da59b3/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "id": "tr-1832106392",
+          "title": "Midnight Drive",
+          "duration": "1:54",
+          "audioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/d0/bc/91d0bcca-8359-5ce5-523d-5c0befc23be9/mzaf_10517161293270626651.plus.aac.p.m4a",
+          "releaseId": "single-1832106392",
+          "trackNumber": 1,
+          "appleMusicUrl": "https://music.apple.com/us/album/midnight-drive/1832106391?i=1832106392&uo=4",
+          "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/57/8d/19578dff-f1ef-5b47-960c-5cbd04da59b3/artwork.jpg/600x600bb.jpg"
+        }
+      ],
+      "description": "Midnight Drive - Single"
+    }
+  ]
+}
