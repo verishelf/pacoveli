@@ -68,7 +68,9 @@ export default function RootLayout({
         </Script>
         <AudioPlayerProvider>
           <Navigation />
-          <main className="pt-14 md:pt-16">{children}</main>
+          <main className="pt-14 md:pt-16 pb-[calc(11rem+env(safe-area-inset-bottom,0px))] md:pb-[calc(7.5rem+env(safe-area-inset-bottom,0px))]">
+            {children}
+          </main>
           <AudioPlayer />
         </AudioPlayerProvider>
       </body>
