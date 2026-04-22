@@ -1,6 +1,9 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
+
+const GA_MEASUREMENT_ID = "G-HZBTZRKYL7";
 import { AudioPlayerProvider } from "@/context/AudioPlayerContext";
 import { AudioPlayer } from "@/components/AudioPlayer";
 import { Navigation } from "@/components/Navigation";
@@ -51,6 +54,18 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} min-h-screen bg-black font-sans text-white antialiased`}
       >
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `}
+        </Script>
         <AudioPlayerProvider>
           <Navigation />
           <main className="pt-14 md:pt-16">{children}</main>
