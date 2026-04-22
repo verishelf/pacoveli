@@ -54,7 +54,7 @@ export function TrackCard({ track, releaseTitle }: TrackCardProps) {
                 className="text-zinc-500 underline-offset-2 transition hover:text-zinc-300 hover:underline"
                 onClick={(e) => e.stopPropagation()}
               >
-                Apple Music
+                Listen on Apple Music
               </a>
             )}
             {track.soundcloudUrl && (

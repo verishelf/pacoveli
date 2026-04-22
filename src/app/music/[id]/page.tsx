@@ -5,6 +5,7 @@ import Link from "next/link";
 import musicData from "../../../data/music.json";
 import { TrackCard } from "@/components/TrackCard";
 import { AddAllToQueueButton } from "@/components/AddAllToQueueButton";
+import { ListenOnAppleMusicButton } from "@/components/ListenOnAppleMusicButton";
 import type { Release } from "@/types";
 
 interface Props {
@@ -57,7 +58,12 @@ export default async function ReleasePage({ params }: Props) {
           {release.description && (
             <p className="mt-4 text-zinc-400">{release.description}</p>
           )}
-          <AddAllToQueueButton tracks={release.tracks} className="mt-6" />
+          <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center">
+            <AddAllToQueueButton tracks={release.tracks} className="w-fit" />
+            {release.tracks[0]?.appleMusicUrl && (
+              <ListenOnAppleMusicButton href={release.tracks[0].appleMusicUrl} />
+            )}
+          </div>
           <div className="mt-8">
             <h2 className="mb-4 text-sm font-medium uppercase tracking-wider text-zinc-500">
               Tracklist

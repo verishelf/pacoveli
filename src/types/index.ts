@@ -31,3 +31,14 @@ export interface Video {
   videoUrl?: string;
   releaseDate?: string;
 }
+
+export interface SoundCloudTrack {
+  id: string;
+  title: string;
+  url: string;
+}
+
+export interface SoundCloudCatalog {
+  profileUrl: string;
+  tracks: SoundCloudTrack[];
+}

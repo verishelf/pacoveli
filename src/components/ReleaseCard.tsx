@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
 import { Play } from "lucide-react";
+import { ListenOnAppleMusicButton } from "./ListenOnAppleMusicButton";
 
 interface ReleaseCardProps {
   release: Release;
@@ -20,6 +21,7 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
   };
 
   const typeLabel = release.type.toUpperCase();
+  const appleUrl = release.tracks[0]?.appleMusicUrl;
 
   return (
     <motion.article
@@ -58,6 +60,11 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
           <p className="text-sm text-zinc-500">{release.releaseDate}</p>
         </div>
       </Link>
+      {appleUrl && (
+        <div className="mt-3" onClick={(e) => e.stopPropagation()}>
+          <ListenOnAppleMusicButton href={appleUrl} size="sm" className="w-full sm:w-auto" />
+        </div>
+      )}
     </motion.article>
   );
 }
